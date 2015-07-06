@@ -1,0 +1,1 @@
+{"id":"prolog","ext":"pg","version":"GNU Prolog v1.4.4","compile":"","execute":"gprolog --consult-file main.pg","preview":"","command":"","file":"/home/cg/src/samples/main.pg","url":"execute_prolog_online.php","mode":"sh"}
